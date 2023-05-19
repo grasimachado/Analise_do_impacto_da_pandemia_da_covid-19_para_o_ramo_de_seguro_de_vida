@@ -1,0 +1,1 @@
+# Analise_do_impacto_da_pandemia_da_covid-19_para_o_ramo_de_seguro_de_vida
