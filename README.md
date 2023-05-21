@@ -1,5 +1,9 @@
 # Analise_do_impacto_da_pandemia_da_covid-19_para_o_ramo_de_seguro_de_vida
 
+Autor: Grasiela Machado
+
+Orientador: Anderson Nascimento
+
 Resumo. Segundo noticiado em diversas fontes de informação, a busca por seguro de vida acelerou na pandemia, pois as pessoas ficaram mais conscientes dos riscos e da vulnerabilidade diante da doença. E essa mudança de comportamento, trouxe um aumento na demanda por esse tipo de produto, e também em alguns casos uma maior dificuldade para as Seguradoras em relação ao pagamento das indenizações.
 Diante desse cenário, minha curiosidade ficou aguçada e quis verificar através dos dados, como foi de fato esse impacto no ramo de seguro de vida.
 Esse projeto visa através dos dados, verificar a evolução do prêmio direto e sinistros de seguros do ramo vida antes, durante e logo após o período da pandemia da covid-19.
